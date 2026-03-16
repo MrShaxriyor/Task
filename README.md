@@ -116,8 +116,8 @@ https://documenter.getpostman.com/view/47089154/2sBXigNECC
 ## ▶️ Run Project Locally
 
 ```bash
-git clone <your_repo_url>
-cd task-manager-api
+git clone github.com/MrShaxriyor/Task.git
+cd task
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
